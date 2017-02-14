@@ -1,0 +1,7 @@
+p.prompt loadposts
+div(*ngIf="!data.loaded") Loading...
+div(*ngIf="data.loaded" "(window:keyup)"="onKey($event)")
+  p Loaded posts:
+  ul.postslist
+    li("*ngFor"="let post of data.posts;let i = index;" "(click)"="clickPost(i)" )
+      span("[ngClass]"="{selected:compare(i,data.selectedPost)}") {{post.title}}

@@ -1,8 +1,12 @@
 <html>
   <head>
-    <title>Angular QuickStart JS</title>
+    <title>Pepijn Willekens Stage blog</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/png"   href="black.png">
+    <link href="https://fonts.googleapis.com/css?family=Ubuntu+Mono" rel="stylesheet">
+
+    <link rel="stylesheet" href="style/normalize.css">
+    <link rel="stylesheet" href="style/style.css">
 
     <!-- 1. Load libraries -->
     <!-- IE required polyfill -->
@@ -10,7 +14,6 @@
 
     <script src="node_modules/zone.js/dist/zone.js"></script>
 
-    <script src="node_modules/pug/register.js"></script>
     <script src="node_modules/jquery/dist/jquery.min.js"></script>
 
     <script src="node_modules/rxjs/bundles/Rx.js"></script>
@@ -19,9 +22,12 @@
     <script src="node_modules/@angular/compiler/bundles/compiler.umd.js"></script>
     <script src="node_modules/@angular/platform-browser/bundles/platform-browser.umd.js"></script>
     <script src="node_modules/@angular/platform-browser-dynamic/bundles/platform-browser-dynamic.umd.js"></script>
+    <script src="node_modules/@angular/http/bundles/http.umd.js"></script>
 
     <!-- 2. Load our 'modules' -->
     <script src='app/app.component.js'></script>
+    <script src='app/loadposts.component.js'></script>
+    <script src='app/postdisplay.component.js'></script>
     <script src='app/app.module.js'></script>
     <script src='app/main.js'></script>
 
@@ -29,7 +35,7 @@
 
   <!-- 3. Display the application -->
   <body>
-    <my-app>Loading...</my-app>
+    <p>Loading...</p>
   </body>
 
 </html>

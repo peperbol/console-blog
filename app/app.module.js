@@ -1,8 +1,8 @@
 (function(app) {
   app.AppModule =
     ng.core.NgModule({
-      imports: [ ng.platformBrowser.BrowserModule ],
-      declarations: [ app.AppComponent ],
+      imports: [ ng.platformBrowser.BrowserModule, ng.http.HttpModule ],
+      declarations: [ app.AppComponent, app.LoadPostsComponent, app.PostDisplayComponent ],
       bootstrap: [ app.AppComponent ]
     })
     .Class({

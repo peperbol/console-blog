@@ -1,0 +1,1 @@
+<p class="prompt">loadposts</p><div *ngIf="!data.loaded">Loading...</div><div *ngIf="data.loaded" (window:keyup)="onKey($event)"><p>Loaded posts:</p><ul class="postslist"><li *ngFor="let post of data.posts;let i = index;" (click)="clickPost(i)"><span [ngClass]="{selected:compare(i,data.selectedPost)}">{{post.title}}</span></li></ul></div>

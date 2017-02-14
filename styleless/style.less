@@ -1,9 +1,44 @@
-h1 {
+@characterwidth: 80;
+@black: #111;
+@white: white;
+* {
+   font-family: 'Ubuntu Mono', monospace;
 
-  h3{}
 }
-h3{
-display: flex;}
+.flicker{
+      animation: flicker 1.5s infinite;
+}
+@keyframes flicker {
+    0%   {opacity: 0}
+    40%  {opacity: 0}
+    41%  {opacity: 1}
+}
 
-  h3{
-  display: flex;}
+body {
+  padding: 5px;
+  width: 8px * @characterwidth;
+  background-color: @black;
+  color: @white;
+  p {
+    padding: 0;
+    margin: 0;
+  }
+  ul{
+    margin: 0;
+    list-style: none;
+  }
+  .prompt::before {
+    content: "> ";
+    display: inline;
+  }
+
+  .selected {
+    background-color: @white;
+    color: @black
+  }
+  .postslist {
+    span {
+      cursor:pointer;
+    }
+  }
+}
