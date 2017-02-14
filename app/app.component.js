@@ -22,7 +22,7 @@
       ],
       getPosts: function(){
         var data =this.data;
-        return this.http.get("/data/posts.json")
+        return this.http.get("data/posts.json")
               .toPromise()
               .then(function( dataresult ) {
                 data.loaded = true;
