@@ -18,5 +18,13 @@
  {
    "title":"20-02-2017",
    "text": "Day 4: Today there was little to do for me, I explored MDR's codebase, out of interrest and worked a bit on a personal project. Tomorrow we will start something new. "
+ },
+ {
+   "title":"21-02-2017",
+   "text": "Day 5: the plan is to build every week a new game and focus each time on 1 or 2 technical aspects which we engineer indepth. We started brainstorming new ideas for technical aspects and search for 2 that would work together. wo chose modular building, and inventories, and started developing arround that, on a modular mech game."
+ },
+ {
+   "title":"22-02-2017",
+   "text": "Day 6: I continued working: I made the system to store the modular systems yesterday, and worked on the editor today. Karel worked on the inventory system."
  }
 ]}
