@@ -38,5 +38,9 @@
  {
    "title":"14-03-2017",
    "text": "Day 9: I continued working on the noise editor: added multithreading to rendering, improved hownseeds worked, and fixed interactionbugs. In the afternoon we veryfied the quality of the localisation of Mayan Death Robots and  playtested, which resulted in barely any bugs. Quite ready for launch."
+ },
+ {
+   "title":"15-03-2017",
+   "text": "Day 10: I continued to work on the noise editor. made save and load, made small previews of nodeswhich keep live up-to-date. and discussed gamedesign "
  }
 ]}
