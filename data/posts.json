@@ -1,7 +1,7 @@
 {"posts":[
  {
    "title":"14-02-2017",
-   "text": "My internship will start tomorrow. Today I spend time on setting this blog up. This is still a temporary post, since I will only cover the days of my internship itself."
+   "text": "My internship will start tomorrow. Today I spend time on setting this blog up."
  },
  {
    "title":"15-02-2017",
@@ -26,7 +26,7 @@
  {
    "title":"22-02-2017",
    "text": "Day 6: I continued working: I made the system to store the modular systems yesterday, and worked on the editor today. Karel worked on the inventory system."
- },'
+ },
  {
    "title":"23-02-2017",
    "text": "Day 7: We continued working and finished an early proof of concept. you can drive arround on tracks and pickup scrap modules. You can enter edit mech mode to add them to your mech and create crazy shapes and forms.  and resume driving arround while trying to not get out of balance. the heavier your mech, the higher your score. https://twitter.com/SileniStudios/status/834803497820422144"
