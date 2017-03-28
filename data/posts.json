@@ -60,8 +60,12 @@
    "text": "Day 14: I studied the other code by Karel and implemented a turn/round system into the gamr. At the end of the day I did some indisign work for folders for EGX Rezzed next week."
  },
  {
-   "title":"22-03-2017",
+   "title":"27-03-2017",
    "text": "Day 15: I made tiles just flip when you approach them and refacfored movement. I also rreworked visuals, and added UIinfo widgets for every player."
+ },
+ {
+   "title":"28-03-2017",
+   "text": "Day 16: I refactored code today. Tomorrow karel will leave to EGX to exhibit Mayan Death Robots. We will continue the 10th of April."
  }
 
 ]}
