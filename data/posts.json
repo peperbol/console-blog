@@ -70,6 +70,18 @@
  {
    "title":"10-04-2017",
    "text": "Day 17: Xbox requested an update of the xdk for mayan death robots which also required a small update in unityversion. So today we play tested a lot, an found several major bugs. "
+ },
+ {
+   "title":"11-04-2017",
+   "text": "Day 18: After a bit more testing, we diced to submit MDR again for verification. We brainstormed about a new gameidea to explore, and decided on a mobile game where you smash chests with swords, hoping to get a better sword out of the chest.."
+ },
+ {
+   "title":"12-04-2017",
+   "text": "Day 19: I focused on making a good sword animation that reacts well on the gyroscope. for this i abstracted and smoothed the gyro input and used this as input for calculating nice sword slashes."
+ },
+ {
+   "title":"13-04-2017",
+"text": "Day 19: I reanged the screen layout and reworked how the animation code works in a more clean and extendable manner"
  }
 
 ]}
