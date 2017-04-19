@@ -81,15 +81,15 @@
  },
  {
    "title":"13-04-2017",
-"text": "Day 19: I reanged the screen layout and reworked how the animation code works in a more clean and extendable manner"
+"text": "Day 20: I rearanged the screen layout and reworked how the animation code works in a more clean and extendable manner"
  },
  {
    "title":"14-04-2017",
-"text": "Day 20: Finished the animation code, and started implementing a generic reusable system to scroll trough objects, one at a time."
+"text": "Day 21: Finished the animation code, and started implementing a generic reusable system to scroll trough objects, one at a time."
  },
  {
    "title":"18-04-2017",
-"text": "Day 21: I continued working on the scroll code a bit and we discussed further game design a lot."
+"text": "Day 22: I continued working on the scroll code a bit and we discussed further game design a lot."
  }
 
 ]}
