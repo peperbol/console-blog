@@ -94,6 +94,10 @@
  {
    "title":"19-04-2017",
 "text": "Day 23: I added the touch input codebase and integrated  the scroll into it."
+ },
+ {
+   "title":"20-04-2017",
+"text": "Day 24: I implemented chest animations and cleaned a lot of legacy code. redid some animations and had a pretty well working build. we did some thinkimg on how to make the gameplay more interestimg and made a plan."
  }
 
 ]}
