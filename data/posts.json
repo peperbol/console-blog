@@ -98,6 +98,14 @@
  {
    "title":"20-04-2017",
 "text": "Day 24: I implemented chest animations and cleaned a lot of legacy code. redid some animations and had a pretty well working build. we did some thinkimg on how to make the gameplay more interestimg and made a plan."
+ },
+ {
+   "title":"21-04-2017",
+"text": "Day 25: I worked on particlesystems and other visual impovements. We finished the prototype to a working and fun thing."
+ },
+ {
+   "title":"22-04-2017",
+"text": "Day 26: We started working on a new gameidea: a game where you controll snakes by playing notes on a flute. I made some sound visualisation to display the different notes in unity."
  }
 
 ]}
