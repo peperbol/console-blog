@@ -104,8 +104,16 @@
 "text": "Day 25: I worked on particlesystems and other visual impovements. We finished the prototype to a working and fun thing."
  },
  {
-   "title":"22-04-2017",
+   "title":"02-05-2017",
 "text": "Day 26: We started working on a new gameidea: a game where you controll snakes by playing notes on a flute. I made some sound visualisation to display the different notes in unity."
+ },
+ {
+   "title":"03-05-2017",
+"text": "Day 27: while karel continues to refine the notes for the snakecharmer game. i playtest MDR on some basic things since it's now available on the xbox store, outside the development sandbox, after that i started working on the gameplay for snake-charmer. made a snake and experimented with different ways of moving, searching to what most resambles the movement of a snake."
+ },
+ {
+   "title":"04-05-2017",
+"text": "Day 28: Today i added a hexgrid level system, and added pathfinding to the snake to dodge obstacles. after that I started working on a level editor"
  }
 
 ]}
