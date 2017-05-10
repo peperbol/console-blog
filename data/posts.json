@@ -114,6 +114,22 @@
  {
    "title":"04-05-2017",
 "text": "Day 28: Today i added a hexgrid level system, and added pathfinding to the snake to dodge obstacles. after that I started working on a level editor"
+ },
+ {
+   "title":"05-05-2017",
+"text": "Day 29: I continued on the leveleditor: made everything accessable in ui. etc."
+ },
+ {
+   "title":"08-05-2017",
+"text": "Day 30: We retoughed how the code is structured regarding what is running in editor/ingame."
+ },
+ {
+   "title":"09-05-2017",
+"text": "Day 31: added an inspect tile feature to level editor. we decided to move the level editor ingame. and i added height to the world tiles and started working on a way to edit this."
+ },
+ {
+   "title":"10-05-2017",
+"text": "Day 32: changed the level to work in 3d instead of orthpgraphic topdown. made a brush to paint the level. and finished the heightmap stuff."
  }
 
 ]}
