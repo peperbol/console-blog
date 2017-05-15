@@ -80,12 +80,18 @@
    "text": "Day 19: I focused on making a good sword animation that reacts well on the gyroscope. for this i abstracted and smoothed the gyro input and used this as input for calculating nice sword slashes."
  },
  {
-   "title":"13-04-2017",
+ 
+       
+
+
+
+	 "title":"13-04-2017",
 "text": "Day 20: I rearanged the screen layout and reworked how the animation code works in a more clean and extendable manner"
  },
  {
    "title":"14-04-2017",
 "text": "Day 21: Finished the animation code, and started implementing a generic reusable system to scroll trough objects, one at a time."
+
  },
  {
    "title":"18-04-2017",
@@ -95,6 +101,7 @@
    "title":"19-04-2017",
 "text": "Day 23: I added the touch input codebase and integrated  the scroll into it."
  },
+
  {
    "title":"20-04-2017",
 "text": "Day 24: I implemented chest animations and cleaned a lot of legacy code. redid some animations and had a pretty well working build. we did some thinkimg on how to make the gameplay more interestimg and made a plan."
@@ -130,6 +137,21 @@
  {
    "title":"10-05-2017",
 "text": "Day 32: changed the level to work in 3d instead of orthpgraphic topdown. made a brush to paint the level. and finished the heightmap stuff."
+ },
+ {
+   "title":"11-05-2017",
+"text": "Day 33: i fixed some smaller lacking stuff in the editor and begun working on procedurally generated flower meshes."
+ },
+ {
+   "title":"12-05-2017",
+	"text": "Day 34: i fixed ton of issues with the flowermesh and added genered uv's and normals."
+ },
+ {
+   "title":"15-05-2017",
+	"text": "Day 35: I made the flowers work in the world and made them animatable with code that we wrote for ultimate supersword."
  }
+
+
+
 
 ]}
