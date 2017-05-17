@@ -149,9 +149,14 @@
  {
    "title":"15-05-2017",
 	"text": "Day 35: I made the flowers work in the world and made them animatable with code that we wrote for ultimate supersword."
+ },
+ {
+   "title":"16-05-2017",
+	"text": "Day 36: I improved flower animations and fixed quitr some bugs."
+ },
+ {
+   "title":"17-05-2017",
+	"text": "Day 37: I added grass to the world, separated animation from notetotem and fixed more bugs."
  }
-
-
-
 
 ]}
