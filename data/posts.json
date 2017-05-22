@@ -155,8 +155,23 @@
 	"text": "Day 36: I improved flower animations and fixed quitr some bugs."
  },
  {
-   "title":"17-05-2017",
+ 
+       	 "title":"17-05-2017",
 	"text": "Day 37: I added grass to the world, separated animation from notetotem and fixed more bugs."
+ },
+ { 
+       	 "title":"18-05-2017",
+	"text": "Day 38: I implemented dependency injection on the entity engine."
+ },
+ { 
+       	 "title":"19-05-2017",
+	"text": "Day 39: I added global deformation to the world."
+ },
+ {
+ 
+       	 "title":"22-05-2017",
+	"text": "Day 40: we retought gameplay, and switched to making somesort puzzlegame. I remade the way input is given and tried some levellayouts for puzzles, and added some mechanics."
  }
+ 
 
 ]}
