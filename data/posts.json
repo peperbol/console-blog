@@ -171,6 +171,26 @@
       {
          "title":"24-05-2017",
          "text":"Day 42: I revamped the movement and restructured the levels into worlds. also made few more levels."
+      },
+      {
+         "title":"26-05-2017",
+         "text":"Day 43: added drag controlls to the snake, which now works waay more intuitive and fixed minor issues & started on path renderer."
+      },
+      {
+         "title":"29-05-2017",
+         "text":"Day 44: polished the pathrenderer and let friend playtest."
+      },
+      {
+         "title":"30-05-2017",
+         "text":"Day 45: added more levels, fixed more minor issues "
+      },
+      {
+         "title":"31-05-2017",
+         "text":"Day 46: added theming to the worlds, recurted levels, & more preparations for showing at IGS tonight."
+      },
+      {
+         "title":"01-06-2017",
+         "text":"Day 47: fixed stuff based on feedback of IGS, revamped tilevisuals, made camerapositioning work well."
       }
    ]
 }
