@@ -191,6 +191,18 @@
       {
          "title":"01-06-2017",
          "text":"Day 47: fixed stuff based on feedback of IGS, revamped tilevisuals, made camerapositioning work well."
+      },
+      {
+         "title":"02-06-2017",
+         "text":"Day 48: I worked on the pathindication arrow's visuals. Added an outline mesh, fixed several smaller bugs."
+      },
+      {
+         "title":"06-06-2017",
+         "text":"Day 50: i continued porting the game to mobile: made menu's, fixed shaders, ranged rendering method  ."
+      },
+      {
+         "title":"07-06-2017",
+         "text":"Day 51: I made the levels load assynchonous, and added animations to switch levels. and been fixing a lot of bugs arround this."
       }
    ]
 }
