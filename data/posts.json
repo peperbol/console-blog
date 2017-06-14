@@ -203,6 +203,22 @@
       {
          "title":"07-06-2017",
          "text":"Day 51: I made the levels load assynchonous, and added animations to switch levels. and been fixing a lot of bugs arround this."
+      },
+      {
+         "title":"08-06-2017",
+         "text":"Day 52: I fixed more bugs with the new loading and optimised speed."
+      },
+      {
+         "title":"09-06-2017",
+         "text":"Day 53: I worked on making the snakes look more different from eachother by adding fins to the biggest ect.."
+      },
+      {
+         "title":"11-06-2017",
+         "text":"Day 54: i went deep into the profiler to chip away as much delays as possible by caching."
+      },
+      {
+         "title":"12-06-2017",
+         "text":"Day 55: I wrapped op some load optimisations and bugfixes, and added a hub level, and placeholder planet selection menu."
       }
    ]
 }
