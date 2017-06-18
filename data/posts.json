@@ -219,6 +219,23 @@
       {
          "title":"12-06-2017",
          "text":"Day 55: I wrapped op some load optimisations and bugfixes, and added a hub level, and placeholder planet selection menu."
+      },
+      {
+         "title":"13-06-2017",
+         "text":"Day 56: i implemented more functionality into the hub to make it work."
+      },
+      {
+         "title":"14-06-2017",
+         "text":"Day 57: I fixed several bugs with the menuscreen and level loading, after karel changed the way levels load."
+      },
+      {
+
+         "title":"15-06-2017",
+         "text":"Day 58: We focused on puzzle design today and both made a bunch of levels"
+      },
+      {
+         "title":"16-06-2017",
+         "text":"Day 59: today was my last day. the focusnwas to getting a propper prototype running on mobile, we fixedbsome more optimizations currated worlds, fixed colors, and scrabed away every GC allocation we could etc."
       }
    ]
 }
